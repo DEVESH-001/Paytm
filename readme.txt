@@ -1,6 +1,3 @@
-password- xOal3wsdxOms8vSm
-mongoose connect link-> 
-"mongodb+srv://captinindian1989:xOal3wsdxOms8vSm@quickpay.ehoi1.mongodb.net/"
 
 file structure --->
 
